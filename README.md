@@ -16,5 +16,10 @@ and [Technische Universität München](https://www21.in.tum.de/), but now includ
 
 
 ### Folder structure
-- `problems` - Problem formulation
-- `proofs` - Problem proof in LaTex
+- **problems/** - Problem formulation
+- **proofs/** - Problem proof in LaTeX
+- `problem1.thy` - Problem 1 solved in Isabelle
+- `problem2.thy` - Problem 2 solved in Isabelle
+- `problem3.thy` - Problem 3 solved in Isabelle
+- `problem4.thy` - Problem 4 solved in Isabelle
+- `problem5.thy` - Problem 5 solved in Isabelle
